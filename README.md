@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# News-Headlines-Classification
-=======
+
 # 📰 News Category Classification using CNN
 A machine learning project that leverages deep learning (CNN) to classify news headlines into their respective categories based on textual data. This end-to-end pipeline includes preprocessing, tokenization, model training, and evaluation.
 
