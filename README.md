@@ -49,15 +49,15 @@ In this project, we evaluated the model's performance using the **Classification
 ```plaintext
               precision    recall  f1-score   support
 
-     POLITICS       0.91      0.89      0.90       500
-ENTERTAINMENT       0.87      0.86      0.86       480
-         TECH       0.88      0.84      0.86       460
-     BUSINESS       0.89      0.87      0.88       470
-       TRAVEL       0.85      0.88      0.86       490
+       COMEDY       0.37      0.38      0.37       810
+ENTERTAINMENT       0.57      0.63      0.60       2605
+        MEDIA       0.46      0.36      0.41       442
+     BUSINESS       0.41      0.35      0.38       899
+  ENVIRONMENT       0.31      0.23      0.26       216
 
-    accuracy                           0.87      2400
-   macro avg       0.88      0.87      0.87      2400
-weighted avg       0.88      0.87      0.87      2400
+    accuracy                           0.51      31430
+   macro avg       0.39      0.37      0.38      31430
+weighted avg       0.51      0.51      0.51      31430
 
 ```
 
