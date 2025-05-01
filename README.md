@@ -68,4 +68,3 @@ weighted avg       0.88      0.87      0.87      2400
 📧 Email: [faisalramzanch77@gmail.com](mailto:faisalramzanch77@gmail.com)  
 🔗 GitHub: [Faisal Ramzan](https://github.com/faisalramzan77)  
 🔗 LinkedIn: [Faisal Ramzan](https://www.linkedin.com/in/faisalramzan77/)
->>>>>>> af3df23 (Initial commit)
